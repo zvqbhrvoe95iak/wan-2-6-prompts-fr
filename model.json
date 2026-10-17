@@ -1,0 +1,15 @@
+{
+  "id": "wan2.6",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T17:30:01Z",
+  "prices": {
+    "default": {
+      "list": 0.0625,
+      "effective": 0.05
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.05 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/wan-2-6"
+}
